@@ -1,0 +1,21 @@
+﻿  pch.cpp
+  Bankomat.cpp
+C:\Users\diduk\OneDrive\Desktop\labs\OOP_LAB1.8\OOP_LAB1.8\Bankomat.cpp(54,14): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\diduk\OneDrive\Desktop\labs\OOP_LAB1.8\OOP_LAB1.8\Bankomat.cpp(55,14): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\diduk\OneDrive\Desktop\labs\OOP_LAB1.8\OOP_LAB1.8\Bankomat.cpp(56,14): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\diduk\OneDrive\Desktop\labs\OOP_LAB1.8\OOP_LAB1.8\Bankomat.cpp(57,13): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\diduk\OneDrive\Desktop\labs\OOP_LAB1.8\OOP_LAB1.8\Bankomat.cpp(58,13): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\diduk\OneDrive\Desktop\labs\OOP_LAB1.8\OOP_LAB1.8\Bankomat.cpp(59,13): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\diduk\OneDrive\Desktop\labs\OOP_LAB1.8\OOP_LAB1.8\Bankomat.cpp(60,12): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\diduk\OneDrive\Desktop\labs\OOP_LAB1.8\OOP_LAB1.8\Bankomat.cpp(61,12): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\diduk\OneDrive\Desktop\labs\OOP_LAB1.8\OOP_LAB1.8\Bankomat.cpp(62,12): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\diduk\OneDrive\Desktop\labs\OOP_LAB1.8\OOP_LAB1.8\Bankomat.cpp(63,13): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\diduk\OneDrive\Desktop\labs\OOP_LAB1.8\OOP_LAB1.8\Bankomat.cpp(64,13): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\diduk\OneDrive\Desktop\labs\OOP_LAB1.8\OOP_LAB1.8\Bankomat.cpp(65,13): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\diduk\OneDrive\Desktop\labs\OOP_LAB1.8\OOP_LAB1.8\Bankomat.cpp(66,12): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\diduk\OneDrive\Desktop\labs\OOP_LAB1.8\OOP_LAB1.8\Bankomat.cpp(67,12): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\diduk\OneDrive\Desktop\labs\OOP_LAB1.8\OOP_LAB1.8\Bankomat.cpp(68,10): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  UnitTest1.8.cpp
+  Generating Code...
+     Creating library C:\Users\diduk\OneDrive\Desktop\labs\OOP_LAB1.8\x64\Debug\UnitTest1.8.lib and object C:\Users\diduk\OneDrive\Desktop\labs\OOP_LAB1.8\x64\Debug\UnitTest1.8.exp
+  UnitTest1.8.vcxproj -> C:\Users\diduk\OneDrive\Desktop\labs\OOP_LAB1.8\x64\Debug\UnitTest1.8.dll
