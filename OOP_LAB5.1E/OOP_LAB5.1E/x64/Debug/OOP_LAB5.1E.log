@@ -1,0 +1,7 @@
+﻿C:\Program Files\Microsoft Visual Studio\18\Insiders\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets(551,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (OOP_LAB5.1E.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  OOP_LAB5.1E.cpp
+  Pair.cpp
+  RectanglePrivate.cpp
+  RectanglePublic.cpp
+  Generating Code...
+  OOP_LAB5.1E.vcxproj -> C:\Users\diduk\OneDrive\Desktop\labs\OOP_LAB5.1E\x64\Debug\OOP_LAB5.1F.exe
