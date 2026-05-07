@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  UnitTest7.1.cpp
+C:\Users\diduk\OneDrive\Desktop\labs\OOP_LAB7.1\UnitTest7.1\UnitTest7.1.cpp(15,18): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  (compiling source file '/UnitTest7.1.cpp')
+  
+C:\Users\diduk\OneDrive\Desktop\labs\OOP_LAB7.1\UnitTest7.1\UnitTest7.1.cpp(16,18): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  (compiling source file '/UnitTest7.1.cpp')
+  
+     Creating library C:\Users\diduk\OneDrive\Desktop\labs\OOP_LAB7.1\x64\Debug\UnitTest7.1.lib and object C:\Users\diduk\OneDrive\Desktop\labs\OOP_LAB7.1\x64\Debug\UnitTest7.1.exp
+  UnitTest7.1.vcxproj -> C:\Users\diduk\OneDrive\Desktop\labs\OOP_LAB7.1\x64\Debug\UnitTest7.1.dll

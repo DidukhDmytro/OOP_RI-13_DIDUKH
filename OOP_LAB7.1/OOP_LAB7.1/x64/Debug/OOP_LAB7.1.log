@@ -1,0 +1,4 @@
+﻿  OOP_LAB7.1.cpp
+C:\Users\diduk\OneDrive\Desktop\labs\OOP_LAB7.1\OOP_LAB7.1\OOP_LAB7.1.cpp(30,18): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\diduk\OneDrive\Desktop\labs\OOP_LAB7.1\OOP_LAB7.1\OOP_LAB7.1.cpp(31,18): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  OOP_LAB7.1.vcxproj -> C:\Users\diduk\OneDrive\Desktop\labs\OOP_LAB7.1\x64\Debug\OOP_LAB7.1.exe
