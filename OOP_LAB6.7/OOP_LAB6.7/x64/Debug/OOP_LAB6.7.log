@@ -1,0 +1,46 @@
+﻿  Array.cpp
+C:\Users\diduk\OneDrive\Desktop\labs\OOP_LAB6.7\OOP_LAB6.7\Array.h(24,52): warning C5040: dynamic exception specifications are valid only in C++14 and earlier; treating as noexcept(false)
+  (compiling source file 'Array.cpp')
+  
+C:\Users\diduk\OneDrive\Desktop\labs\OOP_LAB6.7\OOP_LAB6.7\Array.h(25,36): warning C5040: dynamic exception specifications are valid only in C++14 and earlier; treating as noexcept(false)
+  (compiling source file 'Array.cpp')
+  
+C:\Users\diduk\OneDrive\Desktop\labs\OOP_LAB6.7\OOP_LAB6.7\Array.h(26,65): warning C5040: dynamic exception specifications are valid only in C++14 and earlier; treating as noexcept(false)
+  (compiling source file 'Array.cpp')
+  
+C:\Users\diduk\OneDrive\Desktop\labs\OOP_LAB6.7\OOP_LAB6.7\Array.h(40,47): warning C5040: dynamic exception specifications are valid only in C++14 and earlier; treating as noexcept(false)
+  (compiling source file 'Array.cpp')
+  
+C:\Users\diduk\OneDrive\Desktop\labs\OOP_LAB6.7\OOP_LAB6.7\Array.h(42,48): warning C5040: dynamic exception specifications are valid only in C++14 and earlier; treating as noexcept(false)
+  (compiling source file 'Array.cpp')
+  
+C:\Users\diduk\OneDrive\Desktop\labs\OOP_LAB6.7\OOP_LAB6.7\Array.h(43,60): warning C5040: dynamic exception specifications are valid only in C++14 and earlier; treating as noexcept(false)
+  (compiling source file 'Array.cpp')
+  
+C:\Users\diduk\OneDrive\Desktop\labs\OOP_LAB6.7\OOP_LAB6.7\Array.cpp(4,45): warning C5040: dynamic exception specifications are valid only in C++14 and earlier; treating as noexcept(false)
+C:\Users\diduk\OneDrive\Desktop\labs\OOP_LAB6.7\OOP_LAB6.7\Array.cpp(15,41): warning C5040: dynamic exception specifications are valid only in C++14 and earlier; treating as noexcept(false)
+C:\Users\diduk\OneDrive\Desktop\labs\OOP_LAB6.7\OOP_LAB6.7\Array.cpp(22,68): warning C5040: dynamic exception specifications are valid only in C++14 and earlier; treating as noexcept(false)
+C:\Users\diduk\OneDrive\Desktop\labs\OOP_LAB6.7\OOP_LAB6.7\Array.cpp(64,50): warning C5040: dynamic exception specifications are valid only in C++14 and earlier; treating as noexcept(false)
+C:\Users\diduk\OneDrive\Desktop\labs\OOP_LAB6.7\OOP_LAB6.7\Array.cpp(79,65): warning C5040: dynamic exception specifications are valid only in C++14 and earlier; treating as noexcept(false)
+C:\Users\diduk\OneDrive\Desktop\labs\OOP_LAB6.7\OOP_LAB6.7\Array.cpp(87,77): warning C5040: dynamic exception specifications are valid only in C++14 and earlier; treating as noexcept(false)
+  OOP_LAB6.7.cpp
+C:\Users\diduk\OneDrive\Desktop\labs\OOP_LAB6.7\OOP_LAB6.7\Array.h(24,52): warning C5040: dynamic exception specifications are valid only in C++14 and earlier; treating as noexcept(false)
+  (compiling source file 'OOP_LAB6.7.cpp')
+  
+C:\Users\diduk\OneDrive\Desktop\labs\OOP_LAB6.7\OOP_LAB6.7\Array.h(25,36): warning C5040: dynamic exception specifications are valid only in C++14 and earlier; treating as noexcept(false)
+  (compiling source file 'OOP_LAB6.7.cpp')
+  
+C:\Users\diduk\OneDrive\Desktop\labs\OOP_LAB6.7\OOP_LAB6.7\Array.h(26,65): warning C5040: dynamic exception specifications are valid only in C++14 and earlier; treating as noexcept(false)
+  (compiling source file 'OOP_LAB6.7.cpp')
+  
+C:\Users\diduk\OneDrive\Desktop\labs\OOP_LAB6.7\OOP_LAB6.7\Array.h(40,47): warning C5040: dynamic exception specifications are valid only in C++14 and earlier; treating as noexcept(false)
+  (compiling source file 'OOP_LAB6.7.cpp')
+  
+C:\Users\diduk\OneDrive\Desktop\labs\OOP_LAB6.7\OOP_LAB6.7\Array.h(42,48): warning C5040: dynamic exception specifications are valid only in C++14 and earlier; treating as noexcept(false)
+  (compiling source file 'OOP_LAB6.7.cpp')
+  
+C:\Users\diduk\OneDrive\Desktop\labs\OOP_LAB6.7\OOP_LAB6.7\Array.h(43,60): warning C5040: dynamic exception specifications are valid only in C++14 and earlier; treating as noexcept(false)
+  (compiling source file 'OOP_LAB6.7.cpp')
+  
+  Generating Code...
+  OOP_LAB6.7.vcxproj -> C:\Users\diduk\OneDrive\Desktop\labs\OOP_LAB6.7\x64\Debug\OOP_LAB6.7.exe
