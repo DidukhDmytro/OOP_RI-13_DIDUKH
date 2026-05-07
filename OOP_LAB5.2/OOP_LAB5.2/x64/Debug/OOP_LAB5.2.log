@@ -1,0 +1,10 @@
+﻿  OOP_LAB5.2.cpp
+C:\Users\diduk\OneDrive\Desktop\labs\OOP_LAB5.2\OOP_LAB5.2\OOP_LAB5.2.cpp(71,9): warning C4297: 'ToSeconds2': function assumed not to throw an exception but does
+      C:\Users\diduk\OneDrive\Desktop\labs\OOP_LAB5.2\OOP_LAB5.2\OOP_LAB5.2.cpp(71,9):
+      __declspec(nothrow), throw(), noexcept(true), or noexcept was specified on the function
+  
+C:\Users\diduk\OneDrive\Desktop\labs\OOP_LAB5.2\OOP_LAB5.2\OOP_LAB5.2.cpp(76,46): warning C5040: dynamic exception specifications are valid only in C++14 and earlier; treating as noexcept(false)
+C:\Users\diduk\OneDrive\Desktop\labs\OOP_LAB5.2\OOP_LAB5.2\OOP_LAB5.2.cpp(84,46): warning C5040: dynamic exception specifications are valid only in C++14 and earlier; treating as noexcept(false)
+C:\Users\diduk\OneDrive\Desktop\labs\OOP_LAB5.2\OOP_LAB5.2\OOP_LAB5.2.cpp(92,46): warning C5040: dynamic exception specifications are valid only in C++14 and earlier; treating as noexcept(false)
+C:\Users\diduk\OneDrive\Desktop\labs\OOP_LAB5.2\OOP_LAB5.2\OOP_LAB5.2.cpp(100,46): warning C5040: dynamic exception specifications are valid only in C++14 and earlier; treating as noexcept(false)
+  OOP_LAB5.2.vcxproj -> C:\Users\diduk\OneDrive\Desktop\labs\OOP_LAB5.2\x64\Debug\OOP_LAB5.2.exe
